@@ -1,6 +1,6 @@
 {
   "name": "@rustjn/rust-privacy",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "Description for rust-privacy",
   "main": "src/index.js",
   "scripts": {
@@ -17,6 +17,10 @@
   "license": "ISC",
   "dependencies": {
     "@movexl/manage-github-repo": "^1.0.0",
-    "nodejs-env-checker": "^1.0.0"
+    "nodejs-env-checker": "^1.0.0",
+    "@rustjn/rust-tps": "^1.0.0",
+    "@rustjn/rust-public-chain": "^1.0.0",
+    "@rustjn/rust-fakeai": "^1.0.0",
+    "@rustjn/rust-nft": "^1.0.0"
   }
 }
