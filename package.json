@@ -1,6 +1,6 @@
 {
   "name": "@rustjn/rust-privacy",
-  "version": "1.0.51",
+  "version": "1.0.52",
   "description": "Description for rust-privacy",
   "main": "src/index.js",
   "scripts": {
